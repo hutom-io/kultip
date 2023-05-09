@@ -1,6 +1,5 @@
-# Docker Setup
-Pytorch 딥러닝 프레임워크 설치 방법에 대해 다룬다.
-
+# Python Environment Setup
+Miniconda로python 가상 환경 설치 방법에 대해 다룬다.
 # 설치 사양
 ## OS
 * **LINUX**: UBUNTU 18.04 LTS, 20.04 LTS
